@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_assets/images/severino.png)
+![logo](_assets/image/severino.png)
 
 # BOITATA <small>beta</small>
 
